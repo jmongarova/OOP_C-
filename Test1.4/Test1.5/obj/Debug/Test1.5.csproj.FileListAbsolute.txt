@@ -1,0 +1,6 @@
+D:\курсы30.11.19\c#\Test1.5\Test1.5\bin\Debug\Test1.5.exe.config
+D:\курсы30.11.19\c#\Test1.5\Test1.5\bin\Debug\Test1.5.exe
+D:\курсы30.11.19\c#\Test1.5\Test1.5\bin\Debug\Test1.5.pdb
+D:\курсы30.11.19\c#\Test1.5\Test1.5\obj\Debug\Test1.5.csprojAssemblyReference.cache
+D:\курсы30.11.19\c#\Test1.5\Test1.5\obj\Debug\Test1.5.exe
+D:\курсы30.11.19\c#\Test1.5\Test1.5\obj\Debug\Test1.5.pdb
